@@ -1,7 +1,10 @@
 # LearningAI
 The online resources/tutorials to learn AI
 
-# Foundamental AI
+# General
+* [Practical Deep Learning](https://course.fast.ai/)
+
+# ML
 
 # LLM
 
@@ -15,8 +18,12 @@ The online resources/tutorials to learn AI
 
 # DM
 
+# LLM
+
 # Meta
 
 # MLOps
 
 # ML System Design
+
+# Cookbook
