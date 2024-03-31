@@ -29,4 +29,5 @@ The online resources/tutorials to learn AI
 # ML System Design
 
 # Cookbook
-* [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf)
+* [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
+* [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
