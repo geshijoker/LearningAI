@@ -2,7 +2,7 @@
 The online resources/tutorials to learn AI
 
 # General
-* [Practical Deep Learning](https://course.fast.ai/)
+* [Practical Deep Learning](https://course.fast.ai/)[:star: :star: :star: :star: :star:]
 
 # ML
 
