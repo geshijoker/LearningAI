@@ -8,6 +8,8 @@ The online resources/tutorials to learn AI
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
 
 # ML
+* [ML CheatSheets](https://sites.google.com/view/datascience-cheat-sheets/) ⭐⭐⭐
+* [SuperVIP Cheatsheet: Machine Learning](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) ⭐⭐⭐  💥
 
 # NLP
 * [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/) ⭐⭐⭐  💥
