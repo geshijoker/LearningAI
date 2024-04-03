@@ -42,6 +42,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # ML System Design
 
 # Cookbook
+* [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
