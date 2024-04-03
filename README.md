@@ -44,4 +44,4 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Cookbook
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
-* [TutorialonDiffusionModelsfor ImagingandVision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
+* [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
