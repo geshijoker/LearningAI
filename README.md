@@ -26,6 +26,9 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # Graph
 
+# GM
+* [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf)  ⭐  💥
+
 # DM
 * [Data Mining CheatSheet](https://web.cs.ucla.edu/~patricia.xiao/files/CS145_Cheat_Sheet_Final.pdf)  ⭐
 
