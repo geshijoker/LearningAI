@@ -11,6 +11,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # ML
 * [ML CheatSheets](https://sites.google.com/view/datascience-cheat-sheets/) ⭐
+* [Google ML Course](https://developers.google.com/machine-learning) ⭐⭐ 💥
 * [SuperVIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) ⭐  💥
 * [Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) ⭐⭐  💥💥
 
