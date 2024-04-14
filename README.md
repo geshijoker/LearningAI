@@ -43,6 +43,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # ML System Design
 
 # Cookbook
+* [How To Get PhD](https://lahore.comsats.edu.pk/library/hub/How_to_get_PhD.pdf)
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
