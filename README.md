@@ -45,6 +45,8 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Cookbook
 * [How To Get PhD](https://lahore.comsats.edu.pk/library/hub/How_to_get_PhD.pdf)
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
+* [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) 🆕
+* [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
