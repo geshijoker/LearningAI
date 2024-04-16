@@ -41,6 +41,8 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # MLOps
 
 # ML System Design
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/)  ⭐⭐  💥💥
+* [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)  ⭐⭐⭐  💥
 
 # Cookbook
 * [How To Get PhD](https://lahore.comsats.edu.pk/library/hub/How_to_get_PhD.pdf)
