@@ -3,6 +3,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # Exp
 * [Google Tuning Playbook](https://github.com/google-research/tuning_playbook) ⭐⭐⭐  💥💥
+* [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
 
 # General
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
