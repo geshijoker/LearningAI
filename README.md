@@ -4,7 +4,8 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Exp
 * [Google Tuning Playbook](https://github.com/google-research/tuning_playbook) ⭐⭐⭐  💥💥
 * [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
-* [Feature Selection Techniques in Machine Learning](https://www.kaggle.com/code/piyushagni5/feature-selection-techniques-in-machine-learning) ⭐⭐
+* [Feature Selection Techniques in Machine Learning](https://www.kaggle.com/code/piyushagni5/feature-selection-techniques-in-machine-learning) ⭐
+* [Feature Selection](https://www.youtube.com/watch?v=73SEn4TaCxs) ⭐ 💥
 
 # General
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
