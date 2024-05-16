@@ -4,6 +4,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Exp
 * [Google Tuning Playbook](https://github.com/google-research/tuning_playbook) ⭐⭐⭐  💥💥
 * [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
+* [Everything about Distributed Training and Efficient Finetuning](https://sumanthrh.com/post/distributed-and-efficient-finetuning/) ⭐⭐  💥
 
 # Feature Engineering
 * [Feature Selection Techniques in Machine Learning](https://www.kaggle.com/code/piyushagni5/feature-selection-techniques-in-machine-learning) ⭐
