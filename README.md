@@ -1,6 +1,15 @@
 # LearningAI
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
+# Collections
+* [Cheatsheet-collection](https://github.com/quanghuy0497/Cheatsheet-collection) ⭐⭐⭐  💥
+* [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
+
+# Theory
+* [mathematics-for-machine-learning -- Andrew Ng](https://www.bilibili.com/video/BV1Pg4y1X7Pa/) ⭐⭐  💥💥
+* [Math for ML -- Tübingen Machine Learning](https://www.youtube.com/watch?v=PZwxF59DhYA&list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) ⭐  💥💥💥
+* [Math for DL -- Tübingen Machine Learning](https://www.youtube.com/watch?v=gq0m_2Glz0g&list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) ⭐  💥💥💥
+
 # Exp
 * [Google Tuning Playbook](https://github.com/google-research/tuning_playbook) ⭐⭐⭐  💥💥
 * [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
@@ -12,6 +21,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Feature Selection](https://www.youtube.com/watch?v=73SEn4TaCxs) ⭐ 💥
 
 # General
+* [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
 * [Stanford CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) ⭐⭐  💥💥
 * [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) ⭐⭐  💥💥
@@ -21,6 +31,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Google ML Course](https://developers.google.com/machine-learning) ⭐⭐ 💥
 * [SuperVIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) ⭐  💥
 * [Stanford CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) ⭐⭐  💥💥
+* [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/featured) ⭐⭐ 💥
 
 # NLP
 * [Practical NLP with Python](https://www.nlplanet.org/course-practical-nlp/) ⭐  💥
