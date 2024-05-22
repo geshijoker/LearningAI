@@ -6,6 +6,11 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
 
 # Theory
+* [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) ⭐⭐  💥
+* [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics) ⭐⭐  💥
+* [Linear algebra explained in four pages](https://souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) ⭐⭐  💥
+* [Calculus Cheat Sheet](https://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf) ⭐⭐  💥
+* [probability_cheatsheet v2](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) ⭐⭐  💥
 * [mathematics-for-machine-learning -- Andrew Ng](https://www.bilibili.com/video/BV1Pg4y1X7Pa/) ⭐⭐  💥💥
 * [Math for ML -- Tübingen Machine Learning](https://www.youtube.com/watch?v=PZwxF59DhYA&list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) ⭐  💥💥💥
 * [Math for DL -- Tübingen Machine Learning](https://www.youtube.com/watch?v=gq0m_2Glz0g&list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) ⭐  💥💥💥
@@ -68,8 +73,6 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Cookbook
 * [How To Get PhD](https://lahore.comsats.edu.pk/library/hub/How_to_get_PhD.pdf)
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
-* [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) 🆕
-* [Statistics cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
