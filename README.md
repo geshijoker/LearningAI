@@ -2,8 +2,9 @@
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
 # Collections
-* [Cheatsheet-collection](https://github.com/quanghuy0497/Cheatsheet-collection) ⭐⭐⭐  💥
+* [Cheatsheet-collection](https://github.com/quanghuy0497/Cheatsheet-collection) ⭐  💥
 * [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
+* [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) ⭐  💥
 
 # Theory
 * [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) ⭐⭐  💥
