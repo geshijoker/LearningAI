@@ -33,6 +33,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
 * [Stanford CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) ⭐⭐  💥💥
 * [Stanford CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) ⭐⭐  💥💥
+* [Serrano Academy](https://www.youtube.com/@SerranoAcademy) ⭐⭐⭐  💥
 
 # ML
 * [ML CheatSheets](https://sites.google.com/view/datascience-cheat-sheets/) ⭐
