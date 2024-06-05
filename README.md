@@ -50,6 +50,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # CV
 * [Computer Vision CheatSheet](https://github.com/hagary/cv-cheatsheet/blob/master/cv-sheet.pdf)  ⭐
+* [An Introduction to Vision Language Models](https://arxiv.org/pdf/2405.17247)  ⭐⭐⭐
 
 # RL
 * [Reinforcement Learning CheatSheet](https://github.com/linker81/Reinforcement-Learning-CheatSheet/blob/master/rl_cheatsheet.pdf)  ⭐
@@ -80,7 +81,6 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
-* [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf) 🆕🆕🆕
 
 # Blogs
 * [Lil'Log](https://lilianweng.github.io/)
