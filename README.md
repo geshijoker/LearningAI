@@ -29,6 +29,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Feature Selection](https://www.youtube.com/watch?v=73SEn4TaCxs) ⭐ 💥
 
 # General
+* [Dive into Deeplearning](https://courses.d2l.ai/zh-v2/)  ⭐⭐⭐  💥
 * [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
 * [Stanford CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) ⭐⭐  💥💥
