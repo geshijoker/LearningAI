@@ -23,6 +23,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
 * [Everything about Distributed Training and Efficient Finetuning](https://sumanthrh.com/post/distributed-and-efficient-finetuning/) ⭐⭐  💥
 * [Datasets and Benchmarks Best Practices](https://neuripsconf.medium.com/announcing-the-neurips-2021-datasets-and-benchmarks-track-644e27c1e66c/) ⭐
+* [Optuna](https://github.com/optuna/optuna) ⭐⭐⭐  💥
 
 # Feature Engineering
 * [Feature Selection Techniques in Machine Learning](https://www.kaggle.com/code/piyushagni5/feature-selection-techniques-in-machine-learning) ⭐
@@ -30,6 +31,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # General
 * [Dive into Deeplearning](https://courses.d2l.ai/zh-v2/)  ⭐⭐⭐  💥
+* [Annotated Research Paper Implementations](https://nn.labml.ai/index.html) ⭐⭐  💥💥
 * [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Practical Deep Learning](https://course.fast.ai/) ⭐⭐⭐  💥
 * [Stanford CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) ⭐⭐  💥💥
