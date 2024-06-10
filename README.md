@@ -73,6 +73,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Meta
 
 # MLOps
+* [Git Tutorial](https://www.bilibili.com/video/BV1wJ4m1u7te/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=869cb7e1b21d276df4f7a13a62777aaf) ⭐⭐  💥
 
 # ML System Design
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/)  ⭐⭐  💥💥
