@@ -7,6 +7,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) ⭐  💥
 * [Papers on Explainable Artificial Intelligence](https://github.com/anguyen8/XAI-papers) ⭐  💥
 * [Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐  💥
+* [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview/tree/master) ⭐⭐⭐  💥
 
 # Theory
 * [Probability cheatsheet](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) ⭐⭐  💥
