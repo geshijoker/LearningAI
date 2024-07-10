@@ -76,6 +76,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [LLM Visualization](https://bbycroft.net/llm)  ⭐
 
 # Meta
+* [Metric Learning](https://contrib.scikit-learn.org/metric-learn/introduction.html) ⭐  💥
 
 # MLOps
 * [Git Tutorial](https://www.bilibili.com/video/BV1wJ4m1u7te/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=869cb7e1b21d276df4f7a13a62777aaf) ⭐⭐  💥
