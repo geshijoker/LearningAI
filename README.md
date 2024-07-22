@@ -22,6 +22,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Math for DL -- Tübingen Machine Learning](https://www.youtube.com/watch?v=gq0m_2Glz0g&list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) ⭐  💥💥💥
 
 # Exp
+* [Prompt Engineering Guide](https://www.promptingguide.ai/) ⭐⭐  💥
 * [Google Tuning Playbook](https://github.com/google-research/tuning_playbook) ⭐⭐⭐  💥💥
 * [Intermediate Python](https://docs.pythontab.com/interpy/) ⭐⭐⭐  💥💥
 * [Approaching (Almost) Any Machine Learning Problem](https://docdrop.org/download_annotation_doc/AAAMLP-569to.pdf) ⭐⭐  💥
