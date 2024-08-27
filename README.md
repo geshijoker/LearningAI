@@ -95,5 +95,6 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # Blogs
 * [Lil'Log](https://lilianweng.github.io/)
+* [Jay Alammar](https://jalammar.github.io/)
 * [Openai Research](https://openai.com/news/)
 * [Jonathan Hui](https://jonathan-hui.medium.com/)
