@@ -98,3 +98,4 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Jay Alammar](https://jalammar.github.io/)
 * [Openai Research](https://openai.com/news/)
 * [Jonathan Hui](https://jonathan-hui.medium.com/)
+* [Trelis Research](https://trelis.com/)
