@@ -2,7 +2,7 @@
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
 # Collections
-* [Cheatsheet-collection](https://github.com/quanghuy0497/Cheatsheet-collection) ⭐  💥
+* [machine-learning-interviews](https://github.com/alirezadir/Machine-Learning-Interviews/) ⭐⭐⭐  💥💥
 * [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) ⭐  💥
 * [Papers on Explainable Artificial Intelligence](https://github.com/anguyen8/XAI-papers) ⭐  💥
