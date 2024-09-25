@@ -2,9 +2,11 @@
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
 # Collections
+* [Educative Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
+* [Educative Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design) ⭐⭐⭐  💥
 * [Systems Design Interview Guide]([http://patrickhalina.com/posts/systems-design-interview-guide/#what-are-systems-design-interview-questions-and-why-are-they-so-important]) ⭐⭐  💥
-* [machine-learning-interviews](https://github.com/alirezadir/Machine-Learning-Interviews/) ⭐⭐⭐  💥💥
-* [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
+* [machine-learning-interviews](https://github.com/alirezadir/Machine-Learning-Interviews/) ⭐⭐  💥💥
+* [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐  💥
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) ⭐  💥
 * [Papers on Explainable Artificial Intelligence](https://github.com/anguyen8/XAI-papers) ⭐  💥
 * [Must-read papers on GNN](https://github.com/thunlp/GNNPapers) ⭐  💥
