@@ -2,6 +2,7 @@
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
 # Collections
+* [Systems Design Interview Guide]([http://patrickhalina.com/posts/systems-design-interview-guide/#what-are-systems-design-interview-questions-and-why-are-they-so-important]) ⭐⭐  💥
 * [machine-learning-interviews](https://github.com/alirezadir/Machine-Learning-Interviews/) ⭐⭐⭐  💥💥
 * [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐⭐  💥
 * [Landmark Papers in Machine Learning](https://github.com/daturkel/learning-papers) ⭐  💥
