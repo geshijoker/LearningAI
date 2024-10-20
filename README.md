@@ -4,6 +4,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 # Collections
 * [Educative Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Educative Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design) ⭐⭐⭐  💥
+* [ML System Design Post in LinkedIn](https://www.linkedin.com/posts/dgrachev28_how-i-prepared-for-the-ml-system-design-interview-activity-7181223183369269250-hLP-/) ⭐⭐⭐
 * [Systems Design Interview Guide](http://patrickhalina.com/posts/systems-design-interview-guide/#what-are-systems-design-interview-questions-and-why-are-they-so-important) ⭐⭐  💥
 * [machine-learning-interviews](https://github.com/alirezadir/Machine-Learning-Interviews/) ⭐⭐  💥💥
 * [machine-learning-interview](https://github.com/khangich/machine-learning-interview) ⭐⭐  💥
