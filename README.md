@@ -94,6 +94,9 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [ML System Design Pattern](https://github.com/mercari/ml-system-design-pattern)  ⭐⭐  💥💥
 * [Alex Xu's Book on ML System Design](https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn) ⭐⭐⭐  💥💥
 
+# Software System Design
+* [System Design for Interviews and Beyond](https://leetcode.com/explore/featured/card/system-design-for-interviews-and-beyond/)  ⭐⭐⭐  💥
+
 # Cookbook
 * [How To Get PhD](https://lahore.comsats.edu.pk/library/hub/How_to_get_PhD.pdf)
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
