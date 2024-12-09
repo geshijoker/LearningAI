@@ -58,6 +58,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # NLP
 * [Practical NLP with Python](https://www.nlplanet.org/course-practical-nlp/) ⭐  💥
+* [CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) ⭐  💥
 * [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/) ⭐⭐  💥
 * [NLP CheatSheet: Master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)  ⭐
 * [ML CHEATSHEET: A mind map for NLP](https://www.kaggle.com/code/rftexas/ml-cheatsheet-a-mind-map-for-nlp)  ⭐
