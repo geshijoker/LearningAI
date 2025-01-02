@@ -1,6 +1,9 @@
 # LearningAI
 The online resources/tutorials to learn AI. ⭐ represents importance. 💥 represents difficulty
 
+# Essentials
+* [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html?source=post_page-----b6e4226363b8--------------------------------)
+
 # Collections
 * [Educative Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Educative Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design) ⭐⭐⭐  💥
