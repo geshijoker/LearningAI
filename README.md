@@ -5,6 +5,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html?source=post_page-----b6e4226363b8--------------------------------)
 
 # Collections
+* [Hello Interview](https://www.hellointerview.com/learn) ⭐⭐⭐  💥💥
 * [Educative Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) ⭐⭐⭐  💥
 * [Educative Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design) ⭐⭐⭐  💥
 * [ML System Design Post in LinkedIn](https://www.linkedin.com/posts/dgrachev28_how-i-prepared-for-the-ml-system-design-interview-activity-7181223183369269250-hLP-/) ⭐⭐⭐
