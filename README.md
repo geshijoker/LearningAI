@@ -103,6 +103,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Gitlab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) 🆕
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf) 🆕🆕
 * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) 🆕
+* [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html?source=post_page-----b6e4226363b8--------------------------------) 🆕
 
 # Blogs
 * [Lil'Log](https://lilianweng.github.io/)
