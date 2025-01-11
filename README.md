@@ -76,6 +76,11 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # Graph
 
+# RecSys
+* [Recommendation Systems on Google Cloud](https://www.cloudskillsboost.google/course_templates/39/video/513077)  ⭐⭐⭐  💥
+* [FunRec Documents](https://datawhalechina.github.io/fun-rec/#/)  ⭐⭐  💥💥
+* [FunRec github](https://github.com/datawhalechina/fun-rec/tree/master)  ⭐  💥💥
+
 # GM
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf)  ⭐  💥
 
