@@ -66,6 +66,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/) ⭐⭐  💥
 * [NLP CheatSheet: Master NLP](https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp)  ⭐
 * [ML CHEATSHEET: A mind map for NLP](https://www.kaggle.com/code/rftexas/ml-cheatsheet-a-mind-map-for-nlp)  ⭐
+* [NLP Interview Notes](https://github.com/geshijoker/dwnlpinterview)  ⭐⭐⭐  💥
 
 # CV
 * [Computer Vision CheatSheet](https://github.com/hagary/cv-cheatsheet/blob/master/cv-sheet.pdf)  ⭐
@@ -91,6 +92,8 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [Large Language Model Cheat Sheet](https://github.com/Abonia1/CheatSheet-LLM/blob/main/Large%20Language%20Model%20Cheat%20Sheet.pdf)  ⭐
 * [LLM Visualization](https://bbycroft.net/llm)  ⭐
 * [A Survey of LLM](https://arxiv.org/pdf/2303.18223)  ⭐
+* [LLM Interview Notes](https://github.com/geshijoker/LLMs_interview_notes)  ⭐⭐⭐  💥
+* [Educative LLM Vector Database](https://www.educative.io/courses/vector-databases-for-llms)  ⭐  💥
 
 # Meta
 * [Metric Learning](https://contrib.scikit-learn.org/metric-learn/introduction.html) ⭐  💥
