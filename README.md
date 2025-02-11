@@ -74,6 +74,7 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 
 # RL
 * [Reinforcement Learning CheatSheet](https://github.com/linker81/Reinforcement-Learning-CheatSheet/blob/master/rl_cheatsheet.pdf)  ⭐
+* [Introduction to Reinforcement Learning](https://zhuanlan.zhihu.com/p/466455380)  ⭐  💥
 
 # Graph
 
