@@ -97,6 +97,9 @@ The online resources/tutorials to learn AI. ⭐ represents importance. 💥 repr
 * [LLM Interview Notes](https://github.com/geshijoker/LLMs_interview_notes)  ⭐⭐⭐  💥
 * [Educative LLM Vector Database](https://www.educative.io/courses/vector-databases-for-llms)  ⭐  💥
 
+# RAI
+* [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)  ⭐⭐  💥
+
 # Meta
 * [Metric Learning](https://contrib.scikit-learn.org/metric-learn/introduction.html) ⭐  💥
 
